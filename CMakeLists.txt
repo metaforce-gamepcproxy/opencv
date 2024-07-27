@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-#  Root CMake file OpenCV
+#  Root CMake file for OpenCV
 #
 #    From the off-tree build directory, invoke:
 #      $ cmake <PATH_TO_OPENCV_ROOT>
