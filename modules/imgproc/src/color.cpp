@@ -11,7 +11,7 @@ namespace cv
 
 #ifdef HAVE_OPENCL
 
-static bool ocl_cvtColo( InputArray _src, OutputArray _dst, int code, int dcn )
+static bool ocl_cvtColor( InputArray _src, OutputArray _dst, int code, int dcn )
 {
     int bidx = swapBlue(code) ? 2 : 0;
 
